@@ -9,8 +9,6 @@
 
 ## The Philosophy
 
-We build tools that cut both ways. Dense interfaces for dense minds. Everything exposed, nothing hidden.
-
 Against:
 - Minimalism as laziness
 - Interfaces that infantilize  
