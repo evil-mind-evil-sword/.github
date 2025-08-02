@@ -5,7 +5,7 @@
 
 ## The Tools
 
-**[Bicky](https://github.com/evil-mind-evil-sword/bicky)** — An agentic editor that respects your intelligence. Terminal-native. Always free. Shows its guts.
+**[Bicky](https://github.com/evil-mind-evil-sword/bicky)** — A programmable context editor. Concurrent, browser-native, GPU accelerated, completely open source.
 
 ## The Philosophy
 
@@ -26,7 +26,3 @@ For:
 - The hacker ethos
 
 All tools open source. All tools free. Always.
-
----
-
-*"The perfect program has no bugs, for it has no code."*
