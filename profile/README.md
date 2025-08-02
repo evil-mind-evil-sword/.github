@@ -25,19 +25,6 @@ For:
 - Respecting user intelligence
 - The hacker ethos
 
-## The Code
-
-```
-Every pointer leads to NULL.
-Every function returns void.
-The terminal sees all.
-Fear the old code.
-```
-
-## Join Us
-
-We're building elegant weapons for a civilized age. The kind of civilization where users compile from source and read the man pages.
-
 All tools open source. All tools free. Always.
 
 ---
