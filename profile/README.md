@@ -10,7 +10,7 @@ Against:
 - Interfaces that infantilize  
 - Walled gardens
 - Artificial scarcity
-- The sanitized future
+- A sanitized future
 
 For:
 - Performance as design
