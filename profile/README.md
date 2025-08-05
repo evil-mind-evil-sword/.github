@@ -5,10 +5,6 @@
 
 **[evil-mind-evil-sword.github.io](https://evil-mind-evil-sword.github.io)**
 
-## The Tools
-
-**[Bicky](https://github.com/evil-mind-evil-sword/bicky)** — A programmable context editor. Concurrent, browser-native, GPU accelerated, completely open source.
-
 ## The Philosophy
 
 Against:
