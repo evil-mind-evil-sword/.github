@@ -1,6 +1,8 @@
+```
 ╔═╗╦  ╦╦╦    ╔╦╗╦╔╗╔╔╦╗  ╔═╗╦  ╦╦╦    ╔═╗╦ ╦╔═╗╦═╗╔╦╗
 ║╣ ╚╗╔╝║║    ║║║║║║║ ║║  ║╣ ╚╗╔╝║║    ╚═╗║║║║ ║╠╦╝ ║║
 ╚═╝ ╚╝ ╩╩═╝  ╩ ╩╩╝╚╝═╩╝  ╚═╝ ╚╝ ╩╩═╝  ╚═╝╚╩╝╚═╝╩╚══╩╝
+```
 
 > "The sword is the soul. Study the soul to know the sword. Evil mind, evil sword."  
 > — *The Sword of Doom*
