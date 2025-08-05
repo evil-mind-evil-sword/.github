@@ -3,8 +3,6 @@
 > "The sword is the soul. Study the soul to know the sword. Evil mind, evil sword."  
 > — *The Sword of Doom*
 
-**[evil-mind-evil-sword.github.io](https://evil-mind-evil-sword.github.io)**
-
 ## The Philosophy
 
 Against:
@@ -21,4 +19,4 @@ For:
 - Respecting user intelligence
 - The hacker ethos
 
-All tools open source. All tools free. Always.
+Open-source, free, yours -- forever.
