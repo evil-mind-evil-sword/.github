@@ -8,7 +8,7 @@
 > — *The Sword of Doom*
 
 This organization holds open-source tools made by _tool users_. 
-We liberally make use of AI agents, but we trust in our expertise in software to curate the work these agents perform.
+To develop our tools, we make liberal use of AI agents. We curate the work that these agents perform, using good software design principles and taste.
 This organization is not a business, although businesses are free to use our tools.
 
 ## The Philosophy
