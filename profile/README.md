@@ -7,6 +7,10 @@
 > "The sword is the soul. Study the soul to know the sword. Evil mind, evil sword."  
 > — *The Sword of Doom*
 
+This organization holds open-source tools made by _tool users_. 
+We liberally make use of AI agents, but we trust in our expertise in software to curate the work these agents perform.
+This organization is not a business, although businesses are free to use our tools.
+
 ## The Philosophy
 
 Against:
