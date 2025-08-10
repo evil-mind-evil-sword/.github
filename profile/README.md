@@ -25,5 +25,3 @@ For:
 - Tools that show their work
 - Respecting user intelligence
 - The hacker ethos
-
-Open-source, free and yours for individuals -- forever.
