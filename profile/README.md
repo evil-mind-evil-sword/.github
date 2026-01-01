@@ -14,14 +14,11 @@ To develop our tools, we make liberal use of AI agents. We curate the work that 
 
 Against:
 - Minimalism as laziness
-- Interfaces that infantilize  
-- Walled gardens
-- Artificial scarcity
-- A sanitized future
+- Interfaces that infantilize users
 
 For:
 - Performance as design
-- Complexity without apology
+- Progressive disclosure of complexity
 - Tools that show their work
-- Respecting user intelligence
+- Respecting the user as an intelligent being
 - The hacker ethos
